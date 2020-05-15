@@ -84,5 +84,5 @@ with build_engine(model_file) as engine:
 
 # Start to use engine model
 To use use_engine.py can check how fast it is.
-
+I found the ResizeNearest_TRT can not be used in fp16.
 
