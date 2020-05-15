@@ -15,5 +15,8 @@ https://github.com/fchollet/deep-learning-models/releases
 And I download the pre-train model named mobilenet_1_0_224_tf_no_top.h5
 
 # Start to train
+Put finetuing_mobilenetv1_segnet_voc.py, training.py, voc_reader.py in one file then change images path can be used.
+
+# Change to uff model
 
 
