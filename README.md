@@ -86,4 +86,4 @@ with build_engine(model_file) as engine:
 To use use_engine.py can check how fast it is.
 I found the ResizeNearest_TRT can not be used in fp16.
 
-[!image]https://github.com/zhucheng725/MobileNetv1_Segnet_keras_tensorrt/blob/master/result.jpg
+![image](https://github.com/zhucheng725/MobileNetv1_Segnet_keras_tensorrt/blob/master/result.jpg)
